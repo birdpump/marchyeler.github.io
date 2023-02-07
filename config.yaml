@@ -1,0 +1,7 @@
+baseURL: https://marchyeler.github.io/site/
+languageCode: en-us
+title: My New Hugo Site
+
+minify:
+  disableXML: true
+  minifyOutput: true

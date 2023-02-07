@@ -1,0 +1,30 @@
+.main{
+    position: relative;
+    max-width: 800px;
+    background-color: grey;
+    margin: auto;
+    padding: 20px;
+}
+#post-title {
+    color: white;
+    font-size: 40px;
+}
+
+.post-contents {
+    text-align: left;
+}
+
+.post-contents h2{
+    margin: 32px auto 24px;
+    font-size: 32px;
+    color: white;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+img {
+    max-width: 500px;
+    max-height: inherit;
+}
