@@ -45,7 +45,7 @@
 }
 
 
-@media (max-width: 800px) {
+@media (max-width: 750px) {
     .postbox {
         /*width: 100%;*/
         width: calc(100% - 60px);
